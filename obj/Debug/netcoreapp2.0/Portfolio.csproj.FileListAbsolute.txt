@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_2/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.pdb
